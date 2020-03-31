@@ -2,7 +2,7 @@
 
 
 ### Summary
-This project demonstrates the student's ability to build an ETL pipeline for a data lake hosted on S3.
+This project demonstrates the ability to build an ETL pipeline for a data lake hosted on S3.
 
 ### Schema of the database
 #### Fact table
